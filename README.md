@@ -1,2 +1,2 @@
-# cxtch-analytics
-Spotify + YouTube API integration scripts
+# CXTCH XXI Analytics
+Week 7: integrate Spotify + YouTube APIs.
